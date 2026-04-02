@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../../Nymara-Frontend-Fix"
+		},
+		{
+			"path": "../../../Nymara-Admin-fix"
+		},
+		{
+			"path": "../../../Nymara-Backend-Fix"
+		},
+		{
+			"path": "../../../grid-backend"
+		},
+		{
+			"path": "../../../grid-frontend"
+		},
+		{
+			"path": "../../../Nymara-Final-Frontend"
+		},
+		{
+			"path": "../../../Nymara-Final-Backend"
+		},
+		{
+			"path": "../../../nimay-issue-backend"
+		},
+		{
+			"path": "../../../nimay-issue-frontend"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../copyChecker-Frontend"
+		}
+	]
+}
